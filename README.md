@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafcio20
+- 👋 Hi, I’m @raf
 - 👀 I’m interested in ... getting know new technologies
 - 🌱 I’m currently learning ... python projects more simple and more advanced
 - 💞️ I’m looking to collaborate on ... 
