@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... getting know new technologies
 - 🌱 I’m currently learning ... python projects more simple and more advanced
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... wazzup +48501624338, rafcio20@gmail.com
+- 📫 How to reach me ... wazzup
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... trying to do some coding python, also some excel + sql tables
 
