@@ -1,6 +1,6 @@
 # 🌐 Proxy IP Switcher (Python)
 
-Prosty skrypt w Pythonie do testowania połączeń przez różne serwery proxy oraz rotacji adresów IP. Idealny jako narzędzie edukacyjne do nauki działania proxy, maskowania IP i podstaw bezpieczeństwa sieciowego.
+Prosty skrypt w Pythonie do testowania połączeń przez różne serwery proxy oraz rotacji adresów IP. Idealny jako narzędzie edukacyjne do nauki działania proxy, maskowania IP i podstaw bezpieczeństwa sieciowego. Ostatnimi czasy naszlo mnie na sprawdzanie IP i testowanie polaczen oraz na czym polega szyfrowanie adresow IP i jak go maskowac albo ukrywac w sieci.
 
 ## 🔧 Funkcje
 
