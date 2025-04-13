@@ -38,7 +38,7 @@ def is_connected():
 def clear():
     os.system("cls" if os.name == "nt" else "clear")
 
-# Centrum dowodzenia
+# Centrum dowodzenia informacje o roznych parametrach systemu w jednym miejscu mam kilka informacji z roznych zrodel i mamy taka fajna mala aplikacje do weryfikownia informacji
 def control_center():
     while True:
         clear()
