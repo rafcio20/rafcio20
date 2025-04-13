@@ -1,4 +1,4 @@
-# 📡 Mini Centrum Dowodzenia (Python CLI)
+# 📡 Mini Centrum Dowodzenia 
 
 Terminalowe narzędzie diagnostyczne, które pokazuje podstawowe informacje o Twoim połączeniu sieciowym — idealne do nauki działania IP, lokalizacji, VPN/proxy i podstaw monitorowania połączeń. Ja uzywam VS code dla comfortu pisania codu i patrzenia na niego :> polecam
 
