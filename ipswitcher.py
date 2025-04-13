@@ -1,3 +1,5 @@
+#lista importowanych bibliotek i uzytych z nich funkcji
+
 import requests
 import random
 import time
@@ -19,7 +21,7 @@ def get_ip_through_proxy(proxy):
         return response.json()['origin']
     except Exception as e:
         return f'❌ Proxy failed: {proxy}'
-
+# glowna pentla do pponownego zapytania po kazdym sprawdzeniu ip i sie to w koleczko zapetla
 
 def start_switcher_interactive():
     while True:
