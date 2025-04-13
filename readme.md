@@ -16,7 +16,7 @@ Prosty skrypt w Pythonie do testowania połączeń przez różne serwery proxy o
 
 ## 🚀 Uruchomienie
 
-1. Skopiuj lub pobierz plik `proxy_switcher.py`.
+1. Skopiuj lub pobierz plik `ipswitcher.py`.
 2. W terminalu uruchom:
 
 ```bash
